@@ -1,0 +1,3 @@
+- insert:
+    - id: doomsday-bounty-guard
+      name: "@doomsday-network/bounty-guard"
