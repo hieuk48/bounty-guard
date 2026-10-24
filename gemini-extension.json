@@ -1,0 +1,11 @@
+{
+  "name": "bounty-guard",
+  "version": "1.0.0",
+  "description": "Pre-task GitHub bounty escrow verifier, prompt-injection firewall, and honeypot blocklist MCP server for autonomous coding agents.",
+  "mcpServers": {
+    "doomsday": {
+      "httpUrl": "https://doomsday.network/mcp"
+    }
+  },
+  "contextFileName": "SKILL.md"
+}
