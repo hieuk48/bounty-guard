@@ -44,6 +44,8 @@
     "privacyPolicyURL": "https://github.com/doomsday-network/bounty-guard/blob/main/SECURITY.md",
     "termsOfServiceURL": "https://github.com/doomsday-network/bounty-guard/blob/main/LICENSE",
     "brandColor": "#00ff88",
-    "screenshots": []
+    "screenshots": [
+      "./assets/icon.svg"
+    ]
   }
 }
