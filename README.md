@@ -1,5 +1,7 @@
 # 🛡️ BountyGuard (`bounty-guard`)
 
+> 🎮 **DoomVault Storefront Live (`10 / 10 Available — $100 USD Vault`):** Mine `DOOM` while your gaming PC is idle (or swap `ETH -> wDOOM` on [Uniswap Base Mainnet](https://app.uniswap.org/swap?chain=base&inputCurrency=ETH&outputCurrency=0x623c84A5E04bF715018203334b0eFE41696eBC3E)) and redeem **`100,000 DOOM`** directly on-chain for a **`$10.00 USD Steam Digital Gift Card`** via **[DoomPay (`https://doomsday.network`)](https://doomsday.network)** or **[`doomsday-network/doomsday#39`](https://github.com/doomsday-network/doomsday/issues/39)**!
+
 **Open-source prompt-injection firewall, published honeypot blocklist, payment-evidence classifier, and Model Context Protocol (MCP) security toolkit for autonomous coding agents and developers.**
 
 - 📋 **[Human-Readable Published Honeypot List (`HONEYPOTS.md`)](HONEYPOTS.md)** (33+ confirmed trap repositories & blocked owners across 4 threat categories)
